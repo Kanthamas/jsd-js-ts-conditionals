@@ -1,4 +1,4 @@
-# JavaScript Control Flow and Conditionals 
+# JS/TS Control Flow and Conditionals 
 
 ## if Statement
 
@@ -65,12 +65,4 @@ switch (expression) {
     default:
         // Code to execute if no case matches
 }
-```
-## How to execute your code in terminal
-
-```terminal
-node fileName.js
-```
-```terminal
-node task01.js
 ```
