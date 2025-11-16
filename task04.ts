@@ -1,6 +1,4 @@
-"use strict";
-
-// TODO: Write if/else if to check and print:
+// TODO-04: Write if/else if to check and print:
 // Divisible by both 3 and 5 → "FizzBuzz"
 // Divisible by only 3 → "Fizz"
 // Divisible by only 5 → "Buzz"
