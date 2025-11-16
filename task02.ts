@@ -1,6 +1,4 @@
-"use strict";
-
-// TODO: Use if/else to check if it's a number
+// TODO-02: Use if/else to check if it's a number
 // (hint: typeof or isNaN)
 
 const userInput = "42";
