@@ -1,8 +1,7 @@
-"use strict";
+// TODO-05: Convert this if to switch/case (You can add more options.)
+// TODO BONUS: Use object lookup
 
-// TODO: Convert this if to switch/case (You can add more options.)
-
-const fruit = "banana";
+const fruit: string = "banana";
 
 if (fruit === "apple") {
 	console.log("An apple a day keeps the doctor away.");
